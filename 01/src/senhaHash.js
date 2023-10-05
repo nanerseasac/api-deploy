@@ -1,1 +1,1 @@
-module.exports = 'senhaDaApiMarketPlace';
+module.exports = process.env.SENHAHASH;
